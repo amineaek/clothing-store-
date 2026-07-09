@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Retail ERP \u0026 POS",
+  "description": "A premium, fully-featured commercial ERP and POS application designed for modern retail and clothing stores, supporting multi-language operations, advanced inventory, analytics, and POS workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
